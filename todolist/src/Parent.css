@@ -1,0 +1,29 @@
+
+.bodywhite{
+    background-color:  white;
+    width: 50%;
+    margin: auto auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 30px;
+    margin-top: 50px;
+  }
+  ul{
+    background-color: white;
+    width: 50%;
+    border-radius: 50px;
+
+
+  }
+  input{
+    height: 30px;
+    margin-inline:  10px;
+    align-items: center;
+    justify-content: center;
+  }
+  button{
+    background-color: rgb(211, 112, 112);
+    padding: 10px;
+    font-size: 1rem;
+    margin-inline: 10px
+    ;
+  }
